@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    A Jenkins plugin that exposes external machines as slaves, to leverage the build queue for external machines.
+</div>
